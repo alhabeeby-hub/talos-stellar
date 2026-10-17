@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/905-webhook-subscription-page",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/905-webhook-subscription-page": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/905-webhook-subscription-page",
+    "origin"
+  ]
+}
